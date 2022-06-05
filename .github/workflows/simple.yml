@@ -10,5 +10,5 @@ jobs:
         run: echo "Hello GitHub Actions"
       - name: multiple line script
         run: | 
-          node-v
-          npm-v
+          node -v
+          npm -v
